@@ -30,6 +30,8 @@ The average time to resolution is approximately 5.6 minutes. Further analysis ag
 
 Most tickets are resolved within a short timeframe, but some outliers indicate longer resolution times. Analyzing factors contributing to longer resolution times can guide process improvements.
 
+![image](https://github.com/nadlyaizat/CustomerServiceImprovement/assets/127640970/3b555299-b23e-428f-bd0e-2307a39f8f96)
+
 
 ### Ticket Priority and Resolution Time
 
